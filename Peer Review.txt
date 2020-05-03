@@ -1,0 +1,50 @@
+Name: Allie Brock
+Date: 5/2/2020
+
+Project: Jocelyn Eads
+Group's repository: Not Alone https://github.com/joeads4/FinalProject
+
+
+
+What is something you learned by reviewing this group's project? 
+	That I can make a point and click, I never thought about that before.
+ 
+
+In what ways does this game reflect the theme?
+	The fact that everyone needs comfort in these awful times and so do cats and dogs.
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+	I just really want to make a point and click now!!!!
+ 
+
+What suggestions would you have for this group to improve the game?
+	It seems all the plans you have listed are good ways to improve. I think, making the enemies'
+	HP clearer would help. And adjusting the speed of the enemies compared to bullets, as they can 
+	sometimes outrun them.
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+	Not GDScript I don't think so... no?
+ 
+
+Is it clear that every group member participated? 
+	Yes
+ 
+
+Does the repository contain an appropriate LICENSE? 
+	I can't find it
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+	Separate the sections & make use of markdown bold text, etc.
+ 
+
+Pay a compliment to the group based on the quality of the game.
+	This was very very nice, I needed a soft fun game about adopting animals & sharing some love.
+	Thank you so much!!!
+
+
+How many of your points would you allocate to this project?
+	3
+
